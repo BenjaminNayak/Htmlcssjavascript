@@ -1,0 +1,45 @@
+body
+{
+    margin: 0;
+    padding: o;
+    
+}
+#header_block
+{
+    background: #2874f0;
+    height: 35px;
+    width: 80%;
+    margin: 0 auto;
+}
+#header_block_parent
+{
+    background: #2874f0;
+}
+#logo img
+{
+    width: 110px;
+}
+#logo
+{
+    width: 10%;
+    float: left;
+    
+}
+#search
+{
+    width: 60%;
+    float: left;
+    margin: 5px;
+    height: 32px;
+    padding: 0 16px;
+    margin: 5px;
+    font-size: 14px;
+    
+}
+#loginblock
+{
+    width: 10%;
+    float: right;
+    text-align: right;
+    margin: 14px;   
+}
